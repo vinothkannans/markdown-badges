@@ -104,4 +104,4 @@ Easily copy and paste the code under the badges into your Markdown files.
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [CreativeCommons.org](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Want to add a License?
-Submit an issue, make a pull request or write me an E-Mail ([lukas@himsel.me](mailto:lukas@himsel.me))
+Comment this gist or write me an E-Mail ([lukas@himsel.me](mailto:lukas@himsel.me))
